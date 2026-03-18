@@ -4,8 +4,6 @@
 
 <div align="center">
 
-**Elite AI Engineering Studio**
-
 [![Website](https://img.shields.io/badge/Website-bearplex.com-blue?style=flat-square)](https://bearplex.com)
 [![Twitter](https://img.shields.io/twitter/follow/bearplexdigital?style=flat-square&logo=twitter)](https://twitter.com/bearplexdigital)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-BearPlex-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/company/bearplex)
