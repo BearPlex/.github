@@ -22,14 +22,6 @@ We engineer **sovereign AI systems**, **autonomous agents**, and **enterprise pl
 - ⚡ **Full-Stack Development** — Next.js, React Native, Node.js, Python, Go
 - ☁️ **Cloud Infrastructure** — AWS, serverless, multi-region deployments
 
-## Our Ventures
-
-| Product | Description |
-|---------|-------------|
-| [PeoplePlus](https://app.peopleplus.io) | Unified workplace OS — HR, projects, clients, finance |
-| [Pulse](https://pulse.bearplex.com) | Developer intelligence platform for GitHub-first orgs |
-| [BearBids](https://bearplex.com) | AI-powered sales engine for service businesses |
-
 ## Work With Us
 
 - 📧 **hello@bearplex.com**
