@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://raw.githubusercontent.com/BearPlex/.github/main/profile/github-banner.png" alt="BearPlex" width="100%"/>
+</div>
+
 # BearPlex
 
 <div align="center">
